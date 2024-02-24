@@ -1,0 +1,71 @@
+.container{
+    background-color: black;
+}
+.boh{
+    background-image: url(./imgs/Mask\ Group.png);
+}
+.navbar .btn{
+    border-radius: 5px;
+    background: #F6762C;
+    margin-right: 100px;
+}
+.box .btm{
+    width: 165px;
+    height: 49px;
+    border-radius: 10px;
+    background: #F6762C;
+    margin-right: 100px;
+}
+.menu{
+    width: 100%;
+}
+.menu .chicen{
+    background: #312F30;
+    width: 262px;
+    height: 323px;
+    border-radius: 5px;
+}
+.chic{
+    padding: 50px 50px;
+}
+.chic .chiken{
+    background: #312F30;
+    width: 262px;
+    height: 323px;
+    border-radius: 5px;
+}
+.chic .chiscen{
+    background: #312F30;
+    width: 262px;
+    height: 323px;
+    border-radius: 5px;
+}
+.tana{
+    width: 100%;
+    background: #312F30;
+}
+.tana .btn{
+    width: 145px;
+    height: 39px;
+    border-radius: 10px;
+    background: #F6762C;
+    margin-right: 100px;
+}
+.burger img{
+    margin-left: 100px;
+}
+.king{
+    padding-top: 200px;
+    margin-left: 100px;
+}
+.king .six{
+    color: #F6762C;
+}
+.king .eight{
+    opacity: 0.5;
+    color: #F6762C;
+}
+.images{
+    width: 100%;
+    background: #1C1C1C;
+}
